@@ -1,4 +1,4 @@
-# 🦞 OpenSalles — Personal AI Assistant
+# 🦞 Openturbo — Personal AI Assistant
 
 <p align="center">
     <picture>
